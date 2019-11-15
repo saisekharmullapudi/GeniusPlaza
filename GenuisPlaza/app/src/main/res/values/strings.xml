@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Coding Challenge</string>
+
+    <string name="user_name">Tom Cruise</string>
+    <string name="users_url">https://reqres.in/api/users</string>
+
+</resources>
